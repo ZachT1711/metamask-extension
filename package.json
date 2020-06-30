@@ -123,7 +123,7 @@
     "lodash.debounce": "^4.0.8",
     "lodash.shuffle": "^4.2.0",
     "loglevel": "^1.4.1",
-    "luxon": "^1.8.2",
+    "luxon": "^1.24.1",
     "metamask-inpage-provider": "^3.0.0",
     "metamask-logo": "^2.1.4",
     "mkdirp": "^0.5.1",
